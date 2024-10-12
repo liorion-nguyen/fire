@@ -1,22 +1,22 @@
-# LOGO APP
-Add Logo app here
+![Logo](./assets/images/fire-prevent/Logo_App.png)
 
-# App Name - App Short Description
+# Fire Prevention - Fire Safety Skills
 
 ## Description:
-App Description here
+Fire Prevention is a mobile application designed to educate users on fire safety skills, ranging from basic to advanced levels. The app provides a comprehensive learning experience through instructional videos, detailed lessons, and interactive quizzes.
 
-Apps works well on both iOS and Android devices.
+Fire Prevention works well on both iOS and Android devices.
 
-**App Feature**
+**Main Features:**
+- Users can watch monthly featured fire prevention instructional videos.
+- Users can access lessons that include both video content and detailed written information.
+- Practice exercises are available in the form of quizzes with three difficulty levels.
 
 ## Technologies Used:
-* [React Native:](https://reactnative.dev/) A framework that supports building cross-platform mobile applications.
-* [Native Base:](https://nativebase.io/) A library that provides a wide range of pre-built UI components for mobile app interfaces that are visually appealing.
-* [Redux Toolkit:](https://redux-toolkit.js.org/) A library that efficiently manages the application’s state and allows for easy future scalability.
-* [React Navigation](https://reactnavigation.org/) Routing and Navigation
-* [Firebase:](https://firebase.google.com/) A cloud service provided by Google that supports storing application data and media.
-
+* [React Native:](https://reactnative.dev/) A framework that supports building cross-platform mobile applications, ensuring a seamless experience on both iOS and Android devices.
+* [Redux Toolkit:](https://redux-toolkit.js.org/) A library that efficiently manages the application’s state, allowing for easy scalability and maintenance of the app's complex state logic.
+* [nativewind:](https://nativewind.dev/) A utility-first CSS framework for React Native, enabling rapid styling and design of the app's user interface.
+* [expo-router:](https://expo.dev/router) A routing library for Expo applications that simplifies navigation and URL handling, making it easier to manage app screens and deep linking.
 ## Demo
 
-Add Demo app here
+Add Demo app here# fire-preventation
