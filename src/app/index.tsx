@@ -6,9 +6,9 @@ import { Image, View } from 'react-native'
 export default function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
-      // router.replace('/(no-tabs)/splash')
-      router.replace('/(tabs)/video')
-    }, 200)
+      router.replace('/(no-tabs)/splash')
+      // router.replace('/(tabs)/video')
+    }, 2000)
 
     return () => clearTimeout(timer)
   }, [])
