@@ -19,4 +19,5 @@ Fire Prevention works well on both iOS and Android devices.
 * [expo-router:](https://expo.dev/router) A routing library for Expo applications that simplifies navigation and URL handling, making it easier to manage app screens and deep linking.
 ## Demo
 
-Add Demo app here# fire-preventation
+# Demo
+[![Xem video](./assets/images/screens/image.png)(./)](./assets/images/screens/record.mp4)
