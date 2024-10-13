@@ -20,5 +20,5 @@ Fire Prevention works well on both iOS and Android devices.
 ## Demo
 
 # Demo
-[![Xem video](./assets/images/screens/image.png)(./)](./assets/images/screens/record.mp4)# fire
+[![Xem video](./assets/images/screens/image.png)(./)](./assets/images/screens/record.avi)# fire
 # fire
